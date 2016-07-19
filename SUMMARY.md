@@ -8,6 +8,6 @@
 * [Section6: Building Objects](section6_building_objects.md)
 * [Section7: Odds and Ends](section7_odds_and_ends.md)
 * [Section9: Build your own framework](section9_build_your_own_framework.md)
-* Secction10: bonus
+* [Secction10: bonus](secction10_bonus.md)
 * [Big Word Alerts](big_word_alerts.md)
 
