@@ -289,7 +289,7 @@ You don't care about what the this keyword is in this case, you're not using the
 Very useful in mathematical situations.
 
 
-
+apply and call  ,   a for array, c for comma
 
 
 
