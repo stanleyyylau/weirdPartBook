@@ -4,3 +4,17 @@
 
 ## Requirments
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Structuring safe code
+
